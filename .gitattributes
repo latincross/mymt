@@ -1,0 +1,5 @@
+.github/workflows/build-dm-worker.yml eol=lf
+build-dm-worker.sh eol=lf
+tracker.go.patch eol=lf
+README.md eol=lf
+.gitignore eol=lf
